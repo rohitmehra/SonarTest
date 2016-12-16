@@ -13,7 +13,7 @@ public class rohit5750 {
 	}
 
 	public void setname() {
-
+		int a;
 	}
 
 	public boolean check(boolean a) {
